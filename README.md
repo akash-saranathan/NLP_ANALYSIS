@@ -30,6 +30,7 @@ The dataset used is the **rt-polaritydata** from Cornell University, consisting 
 ```bash
 wget http://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz
 tar -xvzf rt-polaritydata.tar.gz
+```
 
 ## Usage
 To run the code, use the following command
